@@ -1,4 +1,4 @@
-public class main {
+public class Main {
 public static void multigun(int amp) {
 int multy=0;
     for (int i = 1; i <=10 ; i++) {
